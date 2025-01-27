@@ -4,3 +4,4 @@ botbuilder-dialogs
 botbuilder-integration-aiohttp
 python-dotenv
 requests
+gunicorn
