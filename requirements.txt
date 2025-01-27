@@ -1,0 +1,6 @@
+aiohttp
+botbuilder-core
+botbuilder-dialogs
+botbuilder-integration-aiohttp
+python-dotenv
+requests
